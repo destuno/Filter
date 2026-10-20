@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+bot_users.db
+users.json
+in_*
+out_*
